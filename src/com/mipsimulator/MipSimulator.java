@@ -11,7 +11,7 @@ public class MipSimulator {
 	public static void main(String[] args) throws FileNotFoundException {
 		FileReader arquivo = new FileReader(System.getProperty("user.dir") + "/exemplo.asm");
 		BufferedReader leitor = new BufferedReader(arquivo);
-		RunCode run = new RunCode(leitor);
+		new RunCode(leitor);
 	}
 
 }

@@ -1,6 +1,8 @@
-addi s1,s3,8
-lw s1,0(s4)
-addi s0,s1,10
-beq s1,s4,L
-L
-addi s1,s0,10
+addi $t0,$t0,10
+label: addi $s3,$s3,2
+sw $s3,0($s3)
+add $s0,$s3,$s0
+lw $s7,0($s0)
+beq $s3,$t0,final
+j label
+final:

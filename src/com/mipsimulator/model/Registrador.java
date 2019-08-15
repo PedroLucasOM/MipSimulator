@@ -4,10 +4,12 @@ public class Registrador {
 
 	private String nome;
 	private int valor;
+	private String endereco;
 	
-	public Registrador(String nome, int valor) {
+	public Registrador(String nome, int valor, String endereco) {
 		this.nome = nome;
 		this.valor = valor;
+		this.endereco = endereco;
 	}
 	
 	public String getNome() {
@@ -18,6 +20,10 @@ public class Registrador {
 		return valor;
 	}
 	
+	public String getEndereco() {
+		return endereco;
+	}
+	
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
@@ -26,8 +32,12 @@ public class Registrador {
 		this.valor = valor;
 	}
 
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+	
 	@Override
 	public String toString() {
-		return "Registrador [nome=" + nome + ", valor=" + valor + "]";
+		return "Registrador [nome=" + nome + ", valor=" + valor + ", endereco=" + endereco + "]";
 	}
 }
