@@ -105,15 +105,21 @@ public class RunCode {
 	
 	private int buscarNaMemoria(Registrador registrador7) {
 		for(Endereco endereco : this.RAM) {
-			if(endereco.getEndereco().equals(registrador7.getEndereco())) {
+			if(endereco.getEndereco().equals(registrador7.getValor() + "")) {
 				return endereco.getValor();
 			}
 		}
 		return 0;
 	}
 	
-	private void salvarNaMemoria(Registrador registrador10, Registrador registrador11) {
-		this.RAM.add(new Endereco(registrador11.getEndereco(), registrador10.getValor()));
+	private int salvarNaMemoria(Registrador registrador10, Registrador registrador11) {
+		for(Endereco endereco : this.RAM) {
+			if(endereco.getEndereco().equals(registrador11.getValor() + "")) {
+				endereco.setValor(registrador10.getValor());
+				return 0;
+			}
+		}
+		this.RAM.add(new Endereco(registrador11.getValor() + "", registrador10.getValor()));
+		return 0;
 	}
-	
 }
