@@ -1,12 +1,12 @@
 <h1 align="center">Bem-vindo ao MipSimulator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/Java-1.8-blue.svg" />
+  <img src="https://img.shields.io/badge/java-1.8-blue.svg" />
   <a href="https://github.com/PedroLucasOM/MipSimulator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-sim-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentação-sim-brightgreen.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-sim-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/mantida-sim-green.svg" />
   </a>
   <a href="https://github.com/PedroLucasOM/MipSimulator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/PedroLucasOM/MipSimulator" />
