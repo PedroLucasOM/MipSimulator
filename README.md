@@ -1,15 +1,15 @@
 <h1 align="center">Bem-vindo ao MipSimulator 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Versão" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/java-1.8-blue.svg" />
   <a href="https://github.com/PedroLucasOM/MipSimulator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentação-sim-brightgreen.svg" />
+    <img alt="Documentação" src="https://img.shields.io/badge/documentação-sim-green.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/mantida-sim-green.svg" />
+    <img alt="Mantida" src="https://img.shields.io/badge/mantida-sim-green.svg" />
   </a>
   <a href="https://github.com/PedroLucasOM/MipSimulator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/PedroLucasOM/MipSimulator" />
+    <img alt="Licença: JNA" src="https://img.shields.io/badge/licença-JNA-green.svg" />
   </a>
   <a href="https://twitter.com/PedroLucasOM" target="_blank">
     <img alt="Twitter: PedroLucasOM" src="https://img.shields.io/twitter/follow/PedroLucasOM.svg?style=social" />
