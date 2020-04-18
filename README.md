@@ -27,7 +27,7 @@
 ## Usabilidade
 
 ```sh
-npm run start
+java -jar src/com.mipsimulator/MipSimulator.java
 ```
 
 ## Autor
