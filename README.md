@@ -1,9 +1,9 @@
-<h1 align="center"Bem-vindo ao MipSimulator 👋</h1>
+<h1 align="center">Bem-vindo ao MipSimulator 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/Java-1.8-blue.svg" />
   <a href="https://github.com/PedroLucasOM/MipSimulator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-sim-brightgreen.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-sim-green.svg" />
@@ -40,7 +40,8 @@ npm run start
 
 ## 🤝 Contribuição
 
-Contribuições, problemas e solicitações de recursos são bem-vindos! <br /> Sinta-se à vontade para verificar a [página de problemas] (https://github.com/PedroLucasOM/MipSimulator/issues).
+Contribuições, problemas e solicitações de recursos são bem-vindos! <br /> Sinta-se à vontade para verificar a 
+[página de problemas](https://github.com/PedroLucasOM/MipSimulator/issues).
 
 ## Mostre seu apoio
 
