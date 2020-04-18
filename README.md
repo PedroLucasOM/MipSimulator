@@ -50,4 +50,4 @@ Dê um ⭐️ se este projeto ajudou você!
 ## 📝 Licença
 
 Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
-Este projeto é licenciado pelo [JNA](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE).
+Este projeto é licenciado pelo [JNA](https://github.com/PedroLucasOM/MipSimulator/blob/master/LICENSE).
