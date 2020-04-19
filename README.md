@@ -8,9 +8,6 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Mantida" src="https://img.shields.io/badge/mantida-sim-green.svg" />
   </a>
-  <a href="https://github.com/PedroLucasOM/MipSimulator/blob/master/LICENSE.rst" target="_blank">
-    <img alt="Licença: JNA" src="https://img.shields.io/badge/licença-JNA-green.svg" />
-  </a>
   <a href="https://twitter.com/PedroLucasOM" target="_blank">
     <img alt="Twitter: PedroLucasOM" src="https://img.shields.io/twitter/follow/PedroLucasOM.svg?style=social" />
   </a>
@@ -82,4 +79,3 @@ Dê um ⭐️ se este projeto ajudou você!
 ## 📝 Licença
 
 Copyright © 2020 [Pedro Lucas](https://github.com/PedroLucasOM).<br />
-Este projeto é licenciado pelo [JNA](https://github.com/PedroLucasOM/MipSimulator/blob/master/LICENSE.rst).
