@@ -13,7 +13,7 @@
   </a>
 </p>
 
-> Aplicação Java para simular estado dos registradores após executar comandos Assembly.
+> Java application :computer: for simulating assembly commands :bookmark_tabs:.
 
 ### 🏠 [Página Inicial](https://github.com/PedroLucasOM/MipSimulator)
 
